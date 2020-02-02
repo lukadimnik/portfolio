@@ -193,9 +193,7 @@ const Projects = () => {
           ripple
         >
           <Tab>React</Tab>
-          <Tab>Angular</Tab>
-          <Tab>VueJs</Tab>
-          <Tab>MongoDB</Tab>
+          <Tab>Java Spring</Tab>
         </Tabs>
         <Grid>
           <Cell col={12}>
